@@ -56,3 +56,7 @@ Tour update checks: all seven itineraries expanded at 320px without horizontal o
 The hero rotates every 8 seconds; testimonial carousels on Home and About rotate every 10 seconds. Each has its own pause/play button and progress indicator. Rotation pauses while hovered, while keyboard focus is inside, when outside the viewport, and when the browser tab is hidden. Manual slide changes restart the waiting interval. Reduced-motion preferences disable autoplay, scroll reveals, image zoom and decorative transitions while preserving manual controls. Scroll reveals, card/image hover effects, dialog entrances and day-plan expansion use subtle motion. No animation framework or build step is required.
 
 Animation verification: observed automatic hero and testimonial advancement, tested pause persistence past the slide interval, manual navigation and resume, checked Home at 320px and About on desktop, and verified gallery filtering after scripts loaded. No console errors in the checked pages. Testimonial track height is reserved for the longest quote to prevent layout shifts.
+
+## GitHub Pages image paths
+
+Keep the `assets/` folder beside `index.html`. Image and favicon references use `assets/filename`, including the hero slides, tour cards and gallery viewer. Upload the folder with its contents intact; placing the photos directly beside `index.html` causes 404 image requests.

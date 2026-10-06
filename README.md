@@ -60,3 +60,5 @@ Animation verification: observed automatic hero and testimonial advancement, tes
 ## GitHub Pages image paths
 
 Keep the `assets/` folder beside `index.html`. Image and favicon references use `assets/filename`, including the hero slides, tour cards and gallery viewer. Upload the folder with its contents intact; placing the photos directly beside `index.html` causes 404 image requests.
+
+Tour cards use a single native link covering the entire card, including its photo, heading, description and remaining space. All 35 cards across Home, Tour Packages and related-tour sections have this behavior, with normal keyboard and new-tab navigation.

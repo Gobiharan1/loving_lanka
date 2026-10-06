@@ -38,3 +38,6 @@ dialog{border:0;padding:0;border-radius:4px;color:var(--green);box-shadow:0 20px
 @media(max-width:650px){.hero-slider-controls{gap:12px;flex-wrap:wrap}.hero-slider-controls .slider-progress{width:35px}.hero-slider-controls .slider-playback{padding:6px 8px;font-size:9px;gap:5px}.hero-slider-controls>span{letter-spacing:1px}.hero-dots{gap:8px}}
 @media(max-width:374px){.hero-slider-controls{gap:10px}.hero-slider-controls .slider-progress{display:none}.hero-slider-controls .slider-playback{min-width:32px;padding:7px}.hero-slider-controls .playback-label{display:none}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation:none!important;transition:none!important}.journey-card:hover .journey-photo>img,.photo-button:hover img,.button:hover,.button:hover span,.text-link:hover span{transform:none}.content-hero .hero-image{will-change:auto}}
+
+/* One native link covers each complete tour card. */
+.journey-card-link{display:block;height:100%;border-radius:3px}.journey-card-link:hover .circle-button,.journey-card-link:focus-visible .circle-button{background:var(--green);color:white;border-color:var(--green)}.journey-card-link:hover .tour-request-link,.journey-card-link:focus-visible .tour-request-link{color:var(--pink)}

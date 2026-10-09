@@ -1,4 +1,3 @@
-'use strict';
 const tourContent = {
   "highlights-10": {
     "source": "10 days tour (Best Format).docx",
@@ -165,7 +164,37 @@ const tourContent = {
       "Travel insurance, personal expenses, tips, and gratuities",
       "Optional activities, spa/Ayurvedic treatments, or unlisted services"
     ],
-    "addons": []
+    "addons": [],
+    "gallery": [
+      {
+        "title": "Sigiriya Rock Fortress",
+        "caption": "Climbing the ancient royal citadel amidst tropical green forests."
+      },
+      {
+        "title": "Temple of the Tooth Relic",
+        "caption": "Experiencing the spiritual heart of Kandy’s cultural heritage."
+      },
+      {
+        "title": "Nuwara Eliya Tea Plantations",
+        "caption": "Walking through lush green hills where world-famous Ceylon tea is grown."
+      },
+      {
+        "title": "Nine Arch Bridge",
+        "caption": "Capturing the historic architectural railway masterpiece hidden in the hills of Ella."
+      },
+      {
+        "title": "Wildlife Safari",
+        "caption": "Spotting wild elephants roaming freely during a morning jeep safari."
+      },
+      {
+        "title": "Mirissa & Unawatuna Beaches",
+        "caption": "Enjoying golden sand beaches and peaceful Indian Ocean sunsets."
+      },
+      {
+        "title": "Galle Fort Ramparts",
+        "caption": "Exploring colonial-era streets, boutique shops, and ocean-facing walls."
+      }
+    ]
   },
   "highlights-12": {
     "source": "12 days tour.docx",
@@ -1151,6 +1180,8 @@ const tourContent = {
       "Private couple's photography session at scenic viewpoints",
       "Scenic hill-country train tickets",
       "Custom honeymoon cake and welcome surprises"
-    ]
+    ],
+    "addonsTitle": "Romantic Honeymoon Add-Ons Available",
+    "addonsIntro": "To make your 7-day escape even more special, Loving Lanka Tours can arrange personalized touches upon request:"
   }
 };

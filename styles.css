@@ -50,3 +50,5 @@ dialog{border:0;padding:0;border-radius:4px;color:var(--green);box-shadow:0 20px
 @media(max-width:900px){.review-platform-grid{gap:15px}.review-platform-card{padding:24px 20px}.platform-card-heading strong{font-size:23px}}
 @media(max-width:650px){.review-platform-grid{grid-template-columns:1fr;gap:16px}.review-platform-card{padding:25px}.platform-card-heading strong{font-size:26px}.platform-card-copy{font-size:13px}}
 @media(prefers-reduced-motion:reduce){.review-platform-card,.platform-arrow{transition:none}.review-platform-card:hover{transform:none}}
+
+.tour-gallery-photos{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin-bottom:26px}.tour-gallery-photos img{width:100%;height:185px;object-fit:cover;border-radius:4px}.tour-gallery-captions{gap:15px}.tour-gallery-captions strong{color:var(--green);font-weight:600}@media(max-width:650px){.tour-gallery-photos{gap:8px}.tour-gallery-photos img{height:140px}}@media(max-width:450px){.tour-gallery-photos{grid-template-columns:1fr}.tour-gallery-photos img{height:220px}}

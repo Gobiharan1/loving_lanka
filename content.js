@@ -178,8 +178,8 @@ const siteContent = {
       "credit": "From the Loving Lanka travel gallery"
     },
     {
-      "title": "Wild Elephants on Morning Safari",
-      "caption": "Spotting wild elephants roaming freely during a jeep safari in Yala or Udawalawe National Park.",
+      "title": "Wild Elephants in Safari",
+      "caption": "Spotting majestic herds roaming freely during a morning jeep safari.",
       "category": "Wildlife Safaris",
       "image": "wildlife-60.jpg",
       "credit": "From the Loving Lanka wildlife gallery"
@@ -193,14 +193,14 @@ const siteContent = {
     },
     {
       "title": "Historic Galle Fort Ramparts",
-      "caption": "Exploring colonial-era streets, old stone walls, and ocean views within the UNESCO-listed Galle Fort.",
+      "caption": "Exploring colonial-era streets, boutique shops, and ocean-facing walls.",
       "category": "Ancient Heritage & Culture",
       "image": null,
       "credit": null
     },
     {
       "title": "Ancient Dambulla Cave Temple",
-      "caption": "Discovering centuries-old Buddhist statues and vibrant ceiling murals inside the sacred caves.",
+      "caption": "Discovering centuries-old Buddhist statues and vibrant ceiling murals.",
       "category": "Ancient Heritage & Culture",
       "image": null,
       "credit": null
@@ -220,8 +220,8 @@ const siteContent = {
       "credit": null
     },
     {
-      "title": "Traditional Village Cooking Experience",
-      "caption": "Enjoying authentic local spices and freshly prepared rice and curry with local village hosts.",
+      "title": "Traditional Village Cooking",
+      "caption": "Enjoying authentic spices and home-cooked rice and curry with local hosts.",
       "category": "Ancient Heritage & Culture",
       "image": null,
       "credit": null

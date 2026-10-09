@@ -41,3 +41,6 @@ dialog{border:0;padding:0;border-radius:4px;color:var(--green);box-shadow:0 20px
 
 /* One native link covers each complete tour card. */
 .journey-card-link{display:block;height:100%;border-radius:3px}.journey-card-link:hover .circle-button,.journey-card-link:focus-visible .circle-button{background:var(--green);color:white;border-color:var(--green)}.journey-card-link:hover .tour-request-link,.journey-card-link:focus-visible .tour-request-link{color:var(--pink)}
+
+/* Clearly identified testimonial slider after the five reasons. */
+.testimonials-section{background:#f8eee9;scroll-margin-top:105px}.testimonials-section .reviews-head p{font-size:13px;line-height:1.8;margin-top:18px}.testimonials-section .review-card{background:#fffdf7}.review-controls{align-items:center}.review-controls .review-arrow{width:36px;height:36px;border-radius:50%;font-size:18px;display:grid;place-items:center;background:transparent;color:var(--green);margin:0 10px}.review-controls .review-arrow:hover{background:var(--green);color:white}.testimonials-section .review-playback{margin-top:12px}@media(max-width:650px){.testimonials-section .reviews-head p{font-size:12px}.review-controls .review-arrow{margin:0 6px}}

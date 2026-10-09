@@ -151,7 +151,7 @@ const siteContent = {
   "photos": [
     {
       "title": "Majestic Sigiriya Rock Fortress",
-      "caption": "Climbing the ancient royal citadel amidst lush tropical forests in Sri Lanka's Cultural Triangle.",
+      "caption": "Climbing the ancient royal citadel amidst tropical green forests.",
       "category": "Ancient Heritage & Culture",
       "image": "sigiriya.jpg",
       "credit": "Sigiriya · Yasintha Perera / Unsplash"
@@ -165,7 +165,7 @@ const siteContent = {
     },
     {
       "title": "Misty Tea Plantations of Nuwara Eliya",
-      "caption": "Walking through lush green hills where world-famous Ceylon Tea is cultivated.",
+      "caption": "Walking through lush green hills where world-famous Ceylon tea is grown.",
       "category": "Hill Country & Scenic Train",
       "image": null,
       "credit": null

@@ -9,7 +9,7 @@
  function carousel({name,element,interval,count,current,render,transition}){
   const button=document.querySelector(`[data-slider-pause="${name}"]`);
   const progress=button.parentElement.querySelector('.slider-progress-fill');
-  let userPaused=false,hovered=false,focused=false,inView=false,timer,progressAnimation;
+  let userPaused=false,hovered=false,focused=false,inView=false,timer,progressAnimation,requestedIndex=current();
   const live=name==='hero'?document.getElementById('hero-copy'):element;
   function refresh(){
    clearTimeout(timer);progressAnimation?.cancel();
@@ -29,7 +29,7 @@
    }
   }
   function go(index,manual=false){
-   index=(index+count)%count;
+   index=(index+count)%count;requestedIndex=index;
    if(manual)live.setAttribute('aria-live','polite');
    if(manual||index!==current())transition(index,render);
    refresh();
@@ -43,7 +43,7 @@
   if('IntersectionObserver' in window){
    new IntersectionObserver(entries=>{const visible=entries[0].isIntersecting;if(visible!==inView){inView=visible;refresh();}},{threshold:0,rootMargin:'-30px 0px'}).observe(element);
   }else{inView=true;}
-  const controller={go,refresh};controllers.push(controller);refresh();return controller;
+  const controller={go,refresh,get index(){return requestedIndex;}};controllers.push(controller);refresh();return controller;
  }
  const hero=document.querySelector('.content-hero');
  if(hero){

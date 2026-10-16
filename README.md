@@ -10,7 +10,7 @@ From this folder, run:
 python3 -m http.server 4173 --bind 127.0.0.1
 ```
 
-Open http://127.0.0.1:4173/index.html.
+Open [http://127.0.0.1:4173/index.html.](https://gobiharan1.github.io/loving_lanka/)
 
 ## Content added
 

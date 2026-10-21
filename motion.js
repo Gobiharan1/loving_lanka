@@ -9,11 +9,11 @@
  function carousel({name,element,interval,count,current,render,transition}){
   const button=document.querySelector(`[data-slider-pause="${name}"]`);
   const progress=button.parentElement.querySelector('.slider-progress-fill');
-  let userPaused=false,hovered=false,focused=false,inView=false,timer,progressAnimation,requestedIndex=current();
+  let userPaused=false,focused=false,inView=false,timer,progressAnimation,requestedIndex=current();
   const live=name==='hero'?document.getElementById('hero-copy'):element;
   function refresh(){
    clearTimeout(timer);progressAnimation?.cancel();
-   const playing=!userPaused&&!hovered&&!focused&&inView&&!document.hidden&&motionAllowed();
+   const playing=!userPaused&&!focused&&inView&&!document.hidden&&motionAllowed();
    element.dataset.playing=String(playing);
    if(name==='hero')document.getElementById('hero-image').getAnimations().forEach(a=>playing?a.play():a.pause());
    live.setAttribute('aria-live',playing?'off':'polite');
@@ -35,8 +35,6 @@
    refresh();
   }
   button.addEventListener('click',()=>{userPaused=!userPaused;refresh();});
-  element.addEventListener('mouseenter',()=>{hovered=true;refresh();});
-  element.addEventListener('mouseleave',()=>{hovered=false;refresh();});
   // Stop during keyboard interaction without changing the visitor's pause choice.
   element.addEventListener('focusin',()=>{focused=true;refresh();});
   element.addEventListener('focusout',event=>{if(!element.contains(event.relatedTarget)){focused=false;refresh();}});

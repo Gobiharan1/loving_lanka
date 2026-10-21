@@ -144,7 +144,7 @@ const siteContent = {
       "country": "Germany",
       "route": "Cultural Triangle",
       "theme": "Culture & history",
-      "quote": "Nadeeka was an exceptional guide through the Cultural Triangle. His deep knowledge of Anuradhapura, Polonnaruwa, and Sigiriya made history come alive for our entire group.",
+      "quote": "Nadika was an exceptional guide through the Cultural Triangle. His deep knowledge of Anuradhapura, Polonnaruwa, and Sigiriya made history come alive for our entire group.",
       "initial": "HG"
     }
   ],
@@ -245,8 +245,8 @@ const siteContent = {
   "aboutIntro": "Discover the true heart of Sri Lanka with a team dedicated to authentic, safe, and stress-free private travel. We transform ordinary holidays into unforgettable personal journeys across ancient kingdoms, misty mountains, and golden tropical shores.",
   "aboutStory": [
     "Loving Lanka Tours was founded on a simple yet powerful passion: to share the authentic beauty, rich culture, and warm hospitality of Sri Lanka with travelers from across the globe.",
-    "The company is led by Nadeeka, an independent, highly experienced, and government-certified English-speaking chauffeur guide who has spent over a decade navigating every corner of the island. What started as a personal dedication to providing exceptional on-the-ground driving and guiding services has grown into a trusted private tour operation.",
-    "Nadeeka’s hands-on expertise, deep local knowledge, and commitment to traveler safety mean that every journey is managed with meticulous care. Rather than treating travelers like tourists on a rigid schedule, Nadeeka and the Loving Lanka Tours team treat every visitor like an honored guest visiting their home. From seamless airport greetings at Bandaranaike International Airport to handpicked hotels, flexible routing, and deep cultural storytelling, we ensure your Sri Lankan holiday is completely effortless, safe, and deeply personal."
+    "The company is led by Nadika, an independent, highly experienced, and government-certified English-speaking chauffeur guide who has spent over a decade navigating every corner of the island. What started as a personal dedication to providing exceptional on-the-ground driving and guiding services has grown into a trusted private tour operation.",
+    "Nadika’s hands-on expertise, deep local knowledge, and commitment to traveler safety mean that every journey is managed with meticulous care. Rather than treating travelers like tourists on a rigid schedule, Nadika and the Loving Lanka Tours team treat every visitor like an honored guest visiting their home. From seamless airport greetings at Bandaranaike International Airport to handpicked hotels, flexible routing, and deep cultural storytelling, we ensure your Sri Lankan holiday is completely effortless, safe, and deeply personal."
   ],
   "vision": "To be recognized globally as Sri Lanka’s most trusted, transparent, and customer-focused private tour operator, delivering authentic island experiences rooted in safety, comfort, and genuine local hospitality.",
   "mission": "To eliminate the complexities of foreign travel by providing expertly curated, 100% private itineraries, professional English-speaking chauffeur guides, and fully transparent, stress-free logistical support—ensuring every traveler discovers the true magic of Sri Lanka at their own pace.",
@@ -257,7 +257,7 @@ const siteContent = {
     },
     {
       "title": "Expert English-Speaking Chauffeur Guides",
-      "body": "Led by Nadeeka and a hand-picked team of licensed professionals dedicated to your safety, comfort, and deep cultural insight."
+      "body": "Led by Nadika and a hand-picked team of licensed professionals dedicated to your safety, comfort, and deep cultural insight."
     },
     {
       "title": "Transparent Pricing with Zero Hidden Costs",
@@ -273,7 +273,7 @@ const siteContent = {
     }
   ],
   "contactTitle": "Contact Loving Lanka Tours – Start Planning Your Sri Lankan Journey",
-  "contactIntro": "Have questions about our private tour packages, or want a custom-built itinerary designed around your dates, pace, and preferences? Our team, led by Nadeeka, is here to help you plan your dream holiday with complete peace of mind.",
+  "contactIntro": "Have questions about our private tour packages, or want a custom-built itinerary designed around your dates, pace, and preferences? Our team, led by Nadika, is here to help you plan your dream holiday with complete peace of mind.",
   "contactReasons": [
     "100% private and fully flexible tour itineraries tailored strictly around your pace.",
     "Transparent pricing with zero hidden costs covering private air-conditioned transport, fuel, and parking.",

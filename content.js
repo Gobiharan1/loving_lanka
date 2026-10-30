@@ -239,8 +239,9 @@ const siteContent = {
       "title": "Traditional Village Cooking",
       "caption": "Enjoying authentic spices and home-cooked rice and curry with local hosts.",
       "category": "Ancient Heritage & Culture",
-      "image": null,
-      "credit": null
+      "image": "lanka-tripadvisor-cooking.webp",
+      "credit": "Celine D · Loving Lanka Tours gallery on Tripadvisor · June 2019",
+      "sourceUrl": "https://www.tripadvisor.com/Attraction_Review-g304138-d16664850-Reviews-Loving_Lanka_Tours-Kandy_Kandy_District_Central_Province.html#/media/16664850/"
     },
     {
       "title": "Scenic Hill-Country Waterfalls",

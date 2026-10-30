@@ -6,4 +6,4 @@ Selected at the site owner’s request on 30 October 2026.
 - Gallery: https://www.tripadvisor.com/Attraction_Review-g304138-d16664850-Reviews-Loving_Lanka_Tours-Kandy_Kandy_District_Central_Province.html#/media/16664850/
 - Used for the **Traditional Village Cooking** destination card on Home and Gallery. The caption and lightbox retain the uploader/source credit. Image optimized as WebP; no AI generation or visual alterations.
 
-The other five missing destinations were not clearly identifiable in the gallery reviewed. No unrelated temple or beach photograph has been labelled as one of those destinations.
+The other five destinations were not clearly identifiable in the TripAdvisor gallery reviewed. They were subsequently filled with freely licensed destination photographs after the site owner approved this source; see `README-destination-photos.md`.

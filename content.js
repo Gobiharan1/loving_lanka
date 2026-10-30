@@ -176,8 +176,11 @@ const siteContent = {
       "title": "Sacred Temple of the Tooth Relic",
       "caption": "Experiencing the spiritual heart of Kandy’s historic royal palace complex.",
       "category": "Ancient Heritage & Culture",
-      "image": null,
-      "credit": null
+      "image": "destination-tooth-temple.webp",
+      "credit": "මියුරු සංකල්ප (MiyuruSankalpa) · Wikimedia Commons · CC BY-SA 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Front_view_of_Temple_of_the_Tooth,_Kandy.jpg",
+      "licenseName": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
     },
     {
       "title": "Misty Tea Plantations of Nuwara Eliya",
@@ -204,15 +207,21 @@ const siteContent = {
       "title": "Pristine Mirissa Coastline",
       "caption": "Enjoying golden sand beaches and peaceful Indian Ocean sunsets along the southern coast.",
       "category": "Tropical Beaches & Coastline",
-      "image": null,
-      "credit": null
+      "image": "destination-mirissa.webp",
+      "credit": "dronepicr · Wikimedia Commons · CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mirissa_beach_Sri_Lanka_(29959458812).jpg",
+      "licenseName": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
     },
     {
       "title": "Historic Galle Fort Ramparts",
       "caption": "Exploring colonial-era streets, boutique shops, and ocean-facing walls.",
       "category": "Ancient Heritage & Culture",
-      "image": null,
-      "credit": null
+      "image": "destination-galle-fort.webp",
+      "credit": "Jan Kranendonk · 1992 · Wikimedia Commons · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Galle_Fort_wall_and_lighthouse.jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     },
     {
       "title": "Ancient Dambulla Cave Temple",
@@ -225,15 +234,21 @@ const siteContent = {
       "title": "Trincomalee’s East Coast Waters",
       "caption": "Relaxing on the crystal-clear, calm shores of Nilaveli Beach on Sri Lanka's tropical east coast.",
       "category": "Tropical Beaches & Coastline",
-      "image": null,
-      "credit": null
+      "image": "destination-nilaveli.webp",
+      "credit": "Dulakshi · Wikimedia Commons · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nilaveli_Beach.jpg",
+      "licenseName": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     },
     {
       "title": "Ancient Stone Statues at Gal Vihara",
       "caption": "Marveling at magnificent granite-carved Buddha statues in the ancient kingdom of Polonnaruwa.",
       "category": "Ancient Heritage & Culture",
-      "image": null,
-      "credit": null
+      "image": "destination-gal-vihara.webp",
+      "credit": "David Stanley · Wikimedia Commons · CC BY 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gal_Vihara_(30128523187).jpg",
+      "licenseName": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
     },
     {
       "title": "Traditional Village Cooking",

@@ -116,36 +116,52 @@ const siteContent = {
   ],
   "stories": [
     {
-      "name": "Sarah & Mark T.",
-      "country": "United Kingdom",
-      "route": "10-Day Highlights Tour",
-      "theme": "Family holidays & safety",
-      "quote": "Booking our family holiday with Loving Lanka Tours was the best decision we made. Our driver guide took care of every single detail, from airport pickup to seamless hotel check-ins, keeping us safe and comfortable throughout.",
-      "initial": "SM"
+      "name": "clemsa2222",
+      "initial": "C",
+      "theme": "Culture & rencontres",
+      "quote": "une belle rencontre humainement",
+      "summary": "Ce voyageur apprécie les connaissances de Nadika, ses explications sur les traditions locales et son aide pour organiser le parcours. Il souligne aussi sa gentillesse et sa disponibilité.",
+      "date": "2025-12-29",
+      "dateLabel": "29 décembre 2025",
+      "source": "Routard",
+      "sourceUrl": "https://www.routard.com/forums/t/recommandation-chauffeur-nadika-au-sri-lanka/182083/11",
+      "language": "fr"
     },
     {
-      "name": "David L.",
-      "country": "Australia",
-      "route": "Custom 10-day journey",
-      "theme": "Flexibility & discovery",
-      "quote": "An absolute 5-star experience! The customized 10-day itinerary let us experience the wild elephants in Udawalawe and the beauty of Ella without a single logistical stress. Highly recommended!",
-      "initial": "DL"
+      "name": "nathma",
+      "initial": "N",
+      "theme": "De Kandy à Tangalle",
+      "quote": "très bon conducteur",
+      "summary": "Après une rencontre à la gare de Kandy, ce voyageur poursuit son trajet avec Nadika jusqu’à Tangalle. Son avis met en avant son écoute, sa conduite et les découvertes culinaires.",
+      "date": "2026-02-09",
+      "dateLabel": "9 février 2026",
+      "source": "Routard",
+      "sourceUrl": "https://www.routard.com/forums/t/recommandation-chauffeur-nadika-au-sri-lanka/182083/12",
+      "language": "fr"
     },
     {
-      "name": "Elena & Marco",
-      "country": "Italy",
-      "route": "Honeymoon",
-      "theme": "A romantic escape",
-      "quote": "Our honeymoon was magical. From the romantic room touches to the private vehicle comfort, Loving Lanka Tours made our dream trip effortless and unforgettable.",
-      "initial": "EM"
+      "name": "Anonyme",
+      "initial": "A",
+      "theme": "Dix jours de découverte",
+      "quote": "très prudent",
+      "summary": "Pour un premier séjour avec chauffeur, ces voyageurs retiennent la conduite rassurante de Nadika, son humour et ses suggestions de visites. Ils évoquent notamment une baignade près de Sigiriya.",
+      "date": "2017-09-17",
+      "dateLabel": "17 septembre 2017",
+      "source": "Routard",
+      "sourceUrl": "https://www.routard.com/forums/t/recommandation-chauffeur-nadika-au-sri-lanka/182083/9",
+      "language": "fr"
     },
     {
-      "name": "Hans & Greta W.",
-      "country": "Germany",
-      "route": "Cultural Triangle",
-      "theme": "Culture & history",
-      "quote": "Nadika was an exceptional guide through the Cultural Triangle. His deep knowledge of Anuradhapura, Polonnaruwa, and Sigiriya made history come alive for our entire group.",
-      "initial": "HG"
+      "name": "Anonyme",
+      "initial": "A",
+      "theme": "Un voyage à votre rythme",
+      "quote": "toujours à l’écoute",
+      "summary": "Ces voyageurs décrivent une réservation facile et un chauffeur ponctuel. Ils apprécient sa capacité à adapter le circuit à leurs envies et leur budget, ainsi que ses conseils sur les hébergements.",
+      "date": "2017-09-03",
+      "dateLabel": "3 septembre 2017",
+      "source": "Routard",
+      "sourceUrl": "https://www.routard.com/forums/t/recommandation-chauffeur-nadika-au-sri-lanka/182083/5",
+      "language": "fr"
     }
   ],
   "photos": [
@@ -531,5 +547,5 @@ const siteContent = {
   "galleryTitle": "Photo Gallery – Visual Highlights of Sri Lanka Private Tours",
   "galleryIntro": "Take a visual journey through the wonders of Sri Lanka. From ancient UNESCO World Heritage sites and misty tea plantations to wild elephant safaris and golden tropical beaches, explore real moments captured during our private chauffeur-guided tours. ",
   "reviewsTitle": "Traveler Reviews & Testimonials – What Our Guests Say About Loving Lanka Tours",
-  "reviewsIntro": "Read real experiences from families, couples, and solo travelers who explored the wonders of Sri Lanka with our expert private chauffeur guides. Your safety, comfort, and unforgettable memories are our highest priority. "
+  "reviewsIntro": "Discover French-language feedback about Nadika, published by travelers on the Routard forum. Read short original excerpts, clearly labelled summaries, and the full posts at their source."
 };

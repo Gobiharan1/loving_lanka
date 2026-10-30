@@ -1,14 +1,12 @@
-# Hero image assets — 30 October 2026
+# Real hero photographs
 
-Created with the built-in image generation tool. These are AI-generated promotional scenes. Only the homepage slider uses them. Existing tour, guest, and gallery photographs are unchanged.
+All four homepage slider images are real photographs. No generated images are used in the hero. Downloaded on 30 October 2026; resized and encoded as WebP for web delivery, without generative edits.
 
-All four prompts requested wide 16:9 travel-editorial photography, natural vivid color, no text or watermark, a scenic subject on the right and quieter space on the left for website copy.
+- `hero-sigiriya-photo.webp`: Harsha Samaranayake. [Original photograph](https://www.pexels.com/photo/sigiriya-sri-lanka-13391116/). Pexels License.
+- `hero-culture-photo.webp`: Lakshan Abey. [Original photograph](https://www.pexels.com/photo/majestic-ancient-stupa-in-anuradhapura-sri-lanka-32774288/). Pexels License.
+- `hero-tea-photo.webp`: Thilina Alagiyawanna. [Original photograph](https://www.pexels.com/photo/lush-green-tea-plantation-in-sri-lanka-36847090/). Pexels License.
+- `hero-wildlife-photo.webp`: Cory Brown / USFWS. [Original photograph](https://www.fws.gov/media/asian-elephants-udawalawe-national-park-sri-lanka-credit-cory-brown-usfwsjpg). Public domain.
 
-- `hero-sigiriya.webp`: Sigiriya Rock Fortress rising above emerald rainforest, coral sunrise clouds and distant blue hills; warm dramatic light and authentic Sri Lankan landscape.
-- `hero-culture.webp`: White Ruwanwelisaya stupa in Anuradhapura framed by tropical foliage and frangipani, luminous blue sky and warm morning light.
-- `hero-tea.webp`: Rolling emerald tea terraces near Nuwara Eliya, morning sunlight, distant misty mountain valleys and a winding hillside path.
-- `hero-wildlife.webp`: A small family of wild Asian elephants in Udawalawe, green grassland, shimmering blue water and soft golden morning light, seen respectfully from a distance.
+[Pexels licence](https://www.pexels.com/license/) permits free use on websites and in marketing. The elephant photograph is marked public domain on its USFWS source page.
 
-The supplied logo is preserved in `loving-lanka-logo-original.png`. `loving-lanka-logo.svg` embeds that artwork and fits its visible area into the website layout without changing its colors or lettering.
-
-Website palette: #1f3a43 (primary), #f9f8f4 (background), #285d49 (accent), with derived neutral tints for borders and secondary surfaces.
+The uploaded logo and all other existing site photographs are unchanged.

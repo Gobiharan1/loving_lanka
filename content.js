@@ -5,32 +5,32 @@ const siteContent = {
       "title": "Welcome to Loving Lanka Tours – Your Expert Private Chauffeur Guide in Sri Lanka",
       "caption": "Experience seamless, stress-free private journeys through ancient wonders, misty tea hills, and golden beaches tailored entirely around your pace.",
       "button": "Plan Your Custom Tour",
-      "image": "hero-sigiriya.webp",
-      "alt": "Colourful sunrise over Sigiriya Rock Fortress and tropical forest",
+      "image": "hero-sigiriya-photo.webp",
+      "alt": "Sigiriya Rock Fortress surrounded by green forest under a bright blue sky",
       "href": "contact.html"
     },
     {
       "title": "Uncover the Wonders of the Cultural Triangle",
       "caption": "Explore UNESCO World Heritage sites, ancient kingdoms at Sigiriya and Anuradhapura, and sacred temples with your own dedicated private guide.",
       "button": "Explore Cultural Tours",
-      "image": "hero-culture.webp",
-      "alt": "White stupa at Anuradhapura framed by tropical flowers and a vivid blue sky",
+      "image": "hero-culture-photo.webp",
+      "alt": "Ruwanwelisaya Stupa framed by trees beneath a clear blue sky in Anuradhapura",
       "href": "tours.html?interest=culture"
     },
     {
       "title": "Journey Through Ceylon’s Misty Tea Plantations",
       "caption": "Ride the world-famous hill country train, discover cascading waterfalls, and breathe in the magic of Nuwara Eliya and Ella.",
       "button": "Discover Hill Country",
-      "image": "hero-tea.webp",
-      "alt": "Golden morning light over emerald tea plantations and misty hill-country valleys",
+      "image": "hero-tea-photo.webp",
+      "alt": "Green tea plantations beneath blue skies in Sri Lanka’s hill country",
       "href": "tours.html?interest=hills"
     },
     {
       "title": "Track Wild Elephants & Relax on Pristine Shores",
       "caption": "Combine thrilling safari adventures in Yala or Udawalawe with tranquil sunset getaways along Sri Lanka’s stunning southern and east coasts.",
       "button": "View Wildlife & Beach Packages",
-      "image": "hero-wildlife.webp",
-      "alt": "Wild Asian elephants beside blue water in the green grasslands of Udawalawe",
+      "image": "hero-wildlife-photo.webp",
+      "alt": "A herd of wild Asian elephants grazing beside water in Udawalawe National Park",
       "href": "tours.html?interest=wildlife"
     }
   ],

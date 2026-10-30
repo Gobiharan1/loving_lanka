@@ -13,7 +13,7 @@
   const live=name==='hero'?document.getElementById('hero-copy'):element;
   function refresh(){
    clearTimeout(timer);progressAnimation?.cancel();
-   const playing=!userPaused&&!focused&&inView&&!document.hidden&&motionAllowed();
+   const playing=!location.hostname.endsWith('.translate.goog')&&!userPaused&&!focused&&inView&&!document.hidden&&motionAllowed();
    element.dataset.playing=String(playing);
    if(name==='hero')document.getElementById('hero-image').getAnimations().forEach(a=>playing?a.play():a.pause());
    live.setAttribute('aria-live',playing?'off':'polite');

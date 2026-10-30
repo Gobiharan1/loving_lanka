@@ -63,3 +63,8 @@ dialog{border:0;padding:0;border-radius:4px;color:var(--green);box-shadow:0 20px
 
 /* Real photograph focal points across desktop and mobile. */
 .content-hero .hero-image{object-position:50% 50%}.content-hero .hero-image[src$="hero-culture-photo.webp"]{object-position:50% 30%}.content-hero .hero-image[src$="hero-wildlife-photo.webp"]{object-position:50% 45%}
+
+/* Language selector shared by every page. */
+.language-picker{display:flex;align-items:center;gap:6px;color:var(--ink);flex-shrink:0}.language-label{display:flex;align-items:center}.language-label svg{width:18px;height:18px}.language-picker select{max-width:105px;color:var(--ink);background:transparent;border:1px solid var(--line);border-radius:4px;padding:9px 5px;font-size:11px;cursor:pointer}.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}.header{gap:18px}@media(max-width:1100px){.header{gap:12px;padding-left:25px;padding-right:25px}.desktop-nav{gap:18px}}@media(max-width:900px){.header{padding-left:20px;padding-right:20px}.language-picker select{font-size:10px;max-width:93px}.header-cta{margin-left:auto}}@media(max-width:650px){.header{gap:10px}.language-picker{gap:0}.language-label svg{display:none}.language-picker select{font-size:10px;max-width:86px;padding:8px 3px}.header-cta{display:none}.header .brand{margin-right:auto}.menu-toggle{flex-shrink:0}}
+
+.translated-view .hero-slider-controls,.translated-view .review-controls,.translated-view .review-playback{display:none}

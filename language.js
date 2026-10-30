@@ -3,6 +3,7 @@
  const select=document.getElementById('site-language');
  if(!select)return;
  const source=new URL(select.dataset.sourcePage,'https://gobiharan1.github.io/loving_lanka/');
+ source.searchParams.set('v','20261030-nadika');
  const current=new URL(location.href);
  const translated=current.hostname.endsWith('.translate.goog');
  for(const key of ['journey','interest'])if(current.searchParams.has(key))source.searchParams.set(key,current.searchParams.get(key));

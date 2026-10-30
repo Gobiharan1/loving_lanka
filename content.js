@@ -153,8 +153,8 @@ const siteContent = {
       "title": "Majestic Sigiriya Rock Fortress",
       "caption": "Climbing the ancient royal citadel amidst tropical green forests.",
       "category": "Ancient Heritage & Culture",
-      "image": "sigiriya.jpg",
-      "credit": "Sigiriya · Yasintha Perera / Unsplash"
+      "image": "lanka-guest-01.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours"
     },
     {
       "title": "Sacred Temple of the Tooth Relic",
@@ -167,22 +167,22 @@ const siteContent = {
       "title": "Misty Tea Plantations of Nuwara Eliya",
       "caption": "Walking through lush green hills where world-famous Ceylon tea is grown.",
       "category": "Hill Country & Scenic Train",
-      "image": null,
-      "credit": null
+      "image": "lanka-guest-32.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours"
     },
     {
       "title": "The Iconic Nine Arch Bridge in Ella",
       "caption": "Capturing the historic architectural railway masterpiece hidden in the green hills of Ella.",
       "category": "Hill Country & Scenic Train",
-      "image": "place-66.jpg",
-      "credit": "From the Loving Lanka travel gallery"
+      "image": "lanka-guest-31.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours"
     },
     {
       "title": "Wild Elephants in Safari",
       "caption": "Spotting majestic herds roaming freely during a morning jeep safari.",
       "category": "Wildlife Safaris",
-      "image": "wildlife-60.jpg",
-      "credit": "From the Loving Lanka wildlife gallery"
+      "image": "lanka-guest-25.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours"
     },
     {
       "title": "Pristine Mirissa Coastline",
@@ -202,8 +202,8 @@ const siteContent = {
       "title": "Ancient Dambulla Cave Temple",
       "caption": "Discovering centuries-old Buddhist statues and vibrant ceiling murals.",
       "category": "Ancient Heritage & Culture",
-      "image": null,
-      "credit": null
+      "image": "lanka-guest-16.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours"
     },
     {
       "title": "Trincomalee’s East Coast Waters",
@@ -230,15 +230,264 @@ const siteContent = {
       "title": "Scenic Hill-Country Waterfalls",
       "caption": "Stopping by cascading mountain waterfalls like Ramboda along scenic private transfer routes.",
       "category": "Hill Country & Scenic Train",
-      "image": "place-68.jpg",
-      "credit": "From the Loving Lanka travel gallery"
+      "image": "lanka-guest-06.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours"
+    },
+    {
+      "title": "Tea Country Discovery",
+      "caption": "Exploring Sri Lanka’s green tea fields.",
+      "category": "Guest Memories",
+      "image": "lanka-guest-02.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "Meeting Tea Country Hosts",
+      "caption": "Guests sharing a moment with local hosts in the tea hills.",
+      "category": "Guest Memories",
+      "image": "lanka-guest-03.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "An Island View to Remember",
+      "caption": "A traveller enjoying a scenic lakeside viewpoint.",
+      "category": "Guest Memories",
+      "image": "lanka-guest-04.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "Waterfall Valley Views",
+      "caption": "Travellers enjoying the green hills and distant waterfalls.",
+      "category": "Guest Memories",
+      "image": "lanka-guest-05.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "Among the Tea Hills",
+      "caption": "A quiet moment overlooking the tea-covered hills.",
+      "category": "Guest Memories",
+      "image": "lanka-guest-07.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "Lakeside Travel Moments",
+      "caption": "Enjoying blue skies beside a hill-country lake.",
+      "category": "Guest Memories",
+      "image": "lanka-guest-08.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "A Swing Above the Hills",
+      "caption": "Two travellers enjoying a swing above the green hills.",
+      "category": "Guest Memories",
+      "image": "lanka-guest-09.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "Nine Arch Bridge With Our Guests",
+      "caption": "A shared group photo beside Ella’s Nine Arch Bridge.",
+      "category": "Guest Memories",
+      "image": "lanka-guest-10.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "Family Travel Moments",
+      "caption": "A local guide and young travellers sharing a relaxed moment.",
+      "category": "Guest Memories",
+      "image": "lanka-guest-11.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "Travelling Together in Hill Country",
+      "caption": "Guests and their local guide overlooking Sri Lanka’s mountain scenery.",
+      "category": "Guest Memories",
+      "image": "lanka-guest-12.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "Waterfall Walks With Our Guests",
+      "caption": "A guide and travellers visiting a lush waterfall setting.",
+      "category": "Guest Memories",
+      "image": "lanka-guest-13.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "Views Across the Island",
+      "caption": "Travellers and their guide enjoying a wide landscape view.",
+      "category": "Guest Memories",
+      "image": "lanka-guest-14.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "Bridge-Side Memories in Ella",
+      "caption": "Friends and families pausing for a photo at Nine Arch Bridge.",
+      "category": "Guest Memories",
+      "image": "lanka-guest-15.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "A Wildlife Stop Along the Way",
+      "caption": "Travellers and their guide sharing a moment during an island outing.",
+      "category": "Guest Memories",
+      "image": "lanka-guest-17.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "Exploring Sri Lanka’s Temple Heritage",
+      "caption": "Guests and their guide at a historic cave-temple site.",
+      "category": "Guest Memories",
+      "image": "lanka-guest-18.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "A Walk Through the Gardens",
+      "caption": "A guide and travellers exploring landscaped gardens.",
+      "category": "Guest Memories",
+      "image": "lanka-guest-19.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "Sigiriya With Our Guests",
+      "caption": "A shared photo beneath the unmistakable Sigiriya Rock Fortress.",
+      "category": "Guest Memories",
+      "image": "lanka-guest-20.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "Above the Tropical Forest",
+      "caption": "Guests and their guide enjoying a panoramic forest viewpoint.",
+      "category": "Guest Memories",
+      "image": "lanka-guest-21.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "Discovering the Hills Together",
+      "caption": "Travellers and their local guide surrounded by mountain scenery.",
+      "category": "Guest Memories",
+      "image": "lanka-guest-22.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "Personal Journeys With Our Team",
+      "caption": "Guests and their local guide sharing a photo in a green outdoor setting.",
+      "category": "Guest Memories",
+      "image": "lanka-guest-23.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "Memories Beneath Sigiriya",
+      "caption": "Travellers and their guide with Sigiriya in the background.",
+      "category": "Guest Memories",
+      "image": "lanka-guest-24.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "Golden Light Across the Forest",
+      "caption": "A traveller taking in a golden view over the tropical forest.",
+      "category": "Guest Memories",
+      "image": "lanka-guest-26.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "Green Hill-Country Landscapes",
+      "caption": "A traveller enjoying a scenic mountain stop.",
+      "category": "Guest Memories",
+      "image": "lanka-guest-27.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "A Mountain View to Remember",
+      "caption": "A peaceful moment above the green mountain valleys.",
+      "category": "Guest Memories",
+      "image": "lanka-guest-28.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "Sunset Colours Over Sri Lanka",
+      "caption": "A traveller watching a colourful sunset above the forest.",
+      "category": "Guest Memories",
+      "image": "lanka-guest-29.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "In the Tea Fields",
+      "caption": "A visitor exploring Sri Lanka’s green tea plantations.",
+      "category": "Guest Memories",
+      "image": "lanka-guest-30.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "A Scenic Island Escape",
+      "caption": "A traveller enjoying a green mountain setting.",
+      "category": "Guest Memories",
+      "image": "lanka-guest-33.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "Tea Country Hospitality",
+      "caption": "Guests meeting local hosts among the tea bushes.",
+      "category": "Guest Memories",
+      "image": "lanka-guest-34.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "Discovering Ancient Heritage",
+      "caption": "Travellers and their local guide visiting an ancient stone heritage site.",
+      "category": "Guest Memories",
+      "image": "lanka-guest-35.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "Waterfall Journeys With Our Guests",
+      "caption": "A group sharing a photograph beside a Sri Lankan waterfall.",
+      "category": "Guest Memories",
+      "image": "lanka-guest-36.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "Shared Journeys, Lasting Memories",
+      "caption": "A group of travellers with their local guide on an outdoor island excursion.",
+      "category": "Guest Memories",
+      "image": "lanka-guest-37.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
     }
   ],
   "galleryCategories": [
     "Ancient Heritage & Culture",
     "Hill Country & Scenic Train",
     "Wildlife Safaris",
-    "Tropical Beaches & Coastline"
+    "Tropical Beaches & Coastline",
+    "Guest Memories"
   ],
   "homeAbout": "For over a decade, Loving Lanka Tours has specialized in crafting unforgettable, stress-free journeys across the island. Led by expert English-speaking chauffeur guides who double as your local storytellers, we eliminate the complexities of foreign travel. From fully insured, air-conditioned private vehicles to handpicked accommodations and custom-designed itineraries, we handle every logistical detail so you can experience the true warmth, culture, and beauty of Sri Lanka safely and comfortably.",
   "aboutTitle": "About Loving Lanka Tours – Your Trusted Private Chauffeur Guide in Sri Lanka",

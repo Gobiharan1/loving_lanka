@@ -266,6 +266,214 @@ const siteContent = {
       "credit": "Photograph supplied by Loving Lanka Tours"
     },
     {
+      "title": "A Leopard in the Treetops",
+      "caption": "A leopard resting across a tree branch.",
+      "category": "Wildlife Safaris",
+      "image": "lanka-wildlife-01.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "A Quiet Moment on the Rocks",
+      "caption": "A leopard resting on a rocky outcrop.",
+      "category": "Wildlife Safaris",
+      "image": "lanka-wildlife-02.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "A Bird of Prey Against Blue Skies",
+      "caption": "A white-headed bird of prey perched above the foliage.",
+      "category": "Wildlife Safaris",
+      "image": "lanka-wildlife-03.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "Crocodile in the Grass",
+      "caption": "A crocodile resting with its jaws open.",
+      "category": "Wildlife Safaris",
+      "image": "lanka-wildlife-04.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "Wings Above the Wetlands",
+      "caption": "Two white birds with wings spread above the green grass.",
+      "category": "Wildlife Safaris",
+      "image": "lanka-wildlife-05.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "Watching From the Branches",
+      "caption": "A crested bird of prey perched among the trees.",
+      "category": "Wildlife Safaris",
+      "image": "lanka-wildlife-06.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "Life Around a Woven Nest",
+      "caption": "A small bird attending a hanging woven nest.",
+      "category": "Wildlife Safaris",
+      "image": "lanka-wildlife-07.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "A Lizard Up Close",
+      "caption": "A lizard resting on a weathered branch.",
+      "category": "Wildlife Safaris",
+      "image": "lanka-wildlife-08.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "A Peacock’s Colours",
+      "caption": "A peacock displaying its colourful fan of feathers.",
+      "category": "Wildlife Safaris",
+      "image": "lanka-wildlife-09.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "A Flash of Blue",
+      "caption": "A kingfisher perched on a branch against a green backdrop.",
+      "category": "Wildlife Safaris",
+      "image": "lanka-wildlife-10.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "A Bird Among the Green Leaves",
+      "caption": "A crested bird stretching its wing among the leaves.",
+      "category": "Wildlife Safaris",
+      "image": "lanka-wildlife-11.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "Forest Birdlife",
+      "caption": "A colourful small bird perched quietly among the branches.",
+      "category": "Wildlife Safaris",
+      "image": "lanka-wildlife-12.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "Spotted Deer in the Woodland",
+      "caption": "An antlered spotted deer standing among the trees.",
+      "category": "Wildlife Safaris",
+      "image": "lanka-wildlife-13.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "A Crested Bird of Prey",
+      "caption": "A bird of prey standing on the grass.",
+      "category": "Wildlife Safaris",
+      "image": "lanka-wildlife-14.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "Wings in Motion",
+      "caption": "A small bird captured in flight.",
+      "category": "Wildlife Safaris",
+      "image": "lanka-wildlife-15.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "Monitor Lizard in the Grass",
+      "caption": "A monitor lizard moving through short grass.",
+      "category": "Wildlife Safaris",
+      "image": "lanka-wildlife-16.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "Another View of the Peacock",
+      "caption": "The patterned back of a peacock’s raised feathers.",
+      "category": "Wildlife Safaris",
+      "image": "lanka-wildlife-17.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "A Young Monkey in the Trees",
+      "caption": "A young monkey perched beside sunlit leaves.",
+      "category": "Wildlife Safaris",
+      "image": "lanka-wildlife-18.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "A Catch in the Shallows",
+      "caption": "A white wading bird holding a fish in shallow water.",
+      "category": "Wildlife Safaris",
+      "image": "lanka-wildlife-19.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "A Bird of Prey With Its Catch",
+      "caption": "A bird of prey flying with a fish in its claws.",
+      "category": "Wildlife Safaris",
+      "image": "lanka-wildlife-20.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "Golden Birdlife",
+      "caption": "A bright yellow and black bird perched on a branch.",
+      "category": "Wildlife Safaris",
+      "image": "lanka-wildlife-21.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "Deer at the Water’s Edge",
+      "caption": "A group of spotted deer gathered beside the water.",
+      "category": "Wildlife Safaris",
+      "image": "lanka-wildlife-22.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "A Colourful Wading Bird",
+      "caption": "A long-legged bird foraging beside the water.",
+      "category": "Wildlife Safaris",
+      "image": "lanka-wildlife-23.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "A Heron by the Water",
+      "caption": "A grey heron perched on a fallen branch.",
+      "category": "Wildlife Safaris",
+      "image": "lanka-wildlife-24.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "A Hornbill Above the Trees",
+      "caption": "A hornbill perched high on a bare branch.",
+      "category": "Wildlife Safaris",
+      "image": "lanka-wildlife-25.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
+      "title": "A Wild Boar on the Trail",
+      "caption": "A wild boar crossing a sandy track.",
+      "category": "Wildlife Safaris",
+      "image": "lanka-wildlife-26.webp",
+      "credit": "Photograph supplied by Loving Lanka Tours",
+      "featured": false
+    },
+    {
       "title": "Tea Country Discovery",
       "caption": "Exploring Sri Lanka’s green tea fields.",
       "category": "Guest Memories",
@@ -561,7 +769,7 @@ const siteContent = {
     "Dedicated local assistance and expert English-speaking chauffeur guides from airport arrival to departure."
   ],
   "galleryTitle": "Photo Gallery – Visual Highlights of Sri Lanka Private Tours",
-  "galleryIntro": "Take a visual journey through the wonders of Sri Lanka. From ancient UNESCO World Heritage sites and misty tea plantations to wild elephant safaris and golden tropical beaches, explore real moments captured during our private chauffeur-guided tours. ",
+  "galleryIntro": "Discover Sri Lanka through guest travel moments, wildlife photography supplied by Loving Lanka Tours, and destination views. Explore the collection by category and open any photograph for a closer look.",
   "reviewsTitle": "Traveler Reviews & Testimonials – What Our Guests Say About Loving Lanka Tours",
   "reviewsIntro": "Discover French-language feedback about Nadika, published by travelers on the Routard forum. Read short original excerpts, clearly labelled summaries, and the full posts at their source."
 };

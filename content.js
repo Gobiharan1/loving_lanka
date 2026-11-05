@@ -13,8 +13,8 @@ const siteContent = {
       "title": "Uncover the Wonders of the Cultural Triangle",
       "caption": "Explore UNESCO World Heritage sites, ancient kingdoms at Sigiriya and Anuradhapura, and sacred temples with your own dedicated private guide.",
       "button": "Explore Cultural Tours",
-      "image": "hero-culture-photo.webp",
-      "alt": "Ruwanwelisaya Stupa framed by trees beneath a clear blue sky in Anuradhapura",
+      "image": "hero-tooth-temple.webp",
+      "alt": "The Temple of the Sacred Tooth Relic in Kandy, with its white walls and red-roofed pavilion",
       "href": "tours.html?interest=culture"
     },
     {

@@ -67,7 +67,7 @@
   zoomImage();if(hero.dataset.playing!=='true')zoom?.pause();
   preference.addEventListener('change',()=>{request++;previous?.remove();zoom?.cancel();if(motionAllowed())zoomImage();});
  }
- const reviews=document.getElementById('home-reviews');
+ const reviews=document.querySelector('[data-review-slider]');
  if(reviews){
   // Encompass the controls so focusing a dot or pause button also pauses rotation.
   const section=reviews.closest('section');let animation,request=0;

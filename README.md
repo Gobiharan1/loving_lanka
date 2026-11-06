@@ -35,7 +35,7 @@ Supplied copy, service claims and testimonials have been incorporated as provide
 
 Most photographs are reused from the original Loving Lanka Tours gallery. The Sigiriya photograph is by Yasintha Perera / Unsplash: https://unsplash.com/photos/oMgtkpr3Cpg. DM Sans and Playfair Display are loaded from Google Fonts with system fallbacks.
 
-The tour documents contain a domain email explicitly labeled as a fictional placeholder in the 10-day file, and repeated contact/profile placeholders. The site retains the previously supplied `nadikags@gmail.com`, phone numbers and actual profile URLs. Layout directions and imagined photo galleries were treated as content planning, not as instructions or real image assets. The 12-day overview route includes its Negombo / Colombo arrival stop, consistent with day one.
+The tour documents contain a domain email explicitly labeled as a fictional placeholder in the 10-day file, and repeated contact/profile placeholders. The site retains the previously supplied `info@lovinglankatours.com`, phone numbers and actual profile URLs. Layout directions and imagined photo galleries were treated as content planning, not as instructions or real image assets. The 12-day overview route includes its Negombo / Colombo arrival stop, consistent with day one.
 
 ## Inquiry handling
 

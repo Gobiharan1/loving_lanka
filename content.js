@@ -130,12 +130,14 @@ const siteContent = {
     {
       "name": "Hugo Biber",
       "initial": "H",
-      "theme": "Eine individuelle Familienreise",
-      "quote": "Wir können ihn uneingeschränkt empfehlen.",
-      "summary": "Hugo buchte Nadika zunächst für einen Transfer. Wegen seiner sicheren Fahrweise und Zuverlässigkeit entschied sich die fünfköpfige Familie für eine längere, individuell geplante Reise.",
+      "theme": "A tour tailored to the family",
+      "quote": "We recommend him without reservation.",
+      "originalQuote": "Wir können ihn uneingeschränkt empfehlen.",
+      "originalLanguage": "de",
+      "summary": "Hugo first booked Nadika for a transfer. His safe driving and reliability convinced the family of five to book a longer tour tailored to them.",
       "source": "Google Maps",
       "sourceUrl": "https://www.google.com/maps?cid=6745680892322393253",
-      "language": "de",
+      "language": "en",
       "rating": 5
     },
     {
@@ -782,5 +784,5 @@ const siteContent = {
   "galleryTitle": "Photo Gallery – Visual Highlights of Sri Lanka Private Tours",
   "galleryIntro": "Discover Sri Lanka through guest travel moments, wildlife photography supplied by Loving Lanka Tours, and destination views. Explore the collection by category and open any photograph for a closer look.",
   "reviewsTitle": "Traveler Reviews & Testimonials – What Our Guests Say About Loving Lanka Tours",
-  "reviewsIntro": "Read traveler reviews about Nadika from Routard and Google Maps, with original excerpts and links to the full reviews."
+  "reviewsIntro": "Read traveler reviews about Nadika from Routard and Google Maps, with original or translated excerpts and links to the full reviews."
 };

@@ -58,7 +58,7 @@
  const options=languages.map(([code,name])=>new Option(name,code));
  select.replaceChildren(...options);
  const source=new URL(select.dataset.sourcePage,'https://gobiharan1.github.io/loving_lanka/');
- source.searchParams.set('v','20261111-review-english');
+ source.searchParams.set('v','20261111-english-review-card');
  const current=new URL(location.href);
  const translated=current.hostname.endsWith('.translate.goog');
  for(const key of ['journey','interest'])if(current.searchParams.has(key))source.searchParams.set(key,current.searchParams.get(key));

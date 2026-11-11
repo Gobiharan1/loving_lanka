@@ -100,3 +100,6 @@ dialog{border:0;padding:0;border-radius:4px;color:var(--green);box-shadow:0 20px
 @media(prefers-reduced-motion:reduce){.review-card.sourced-review,.reviews-platforms-section .review-platform-card,.reviews-community .review-platform-card{transition:none}}
 
 .sourced-review .review-platform-label>span:last-child{color:inherit}.all-supplied-reviews .sourced-review:first-child .review-platform-label b{color:#f9f8f4}
+
+.rated-review .review-stars{color:#94600b}
+.all-supplied-reviews .rated-review:first-child .review-stars{color:#ffda87}
